@@ -1,0 +1,6 @@
+menuconfig EXAMPLES_LEARNING_DEVELOP
+    bool "learning_develop"
+    default n
+    ---help---
+        Enable support for learning_develop
+
